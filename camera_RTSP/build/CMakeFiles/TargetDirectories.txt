@@ -1,0 +1,3 @@
+/home/crk/linux/IMX335/camera_RTSP/build/CMakeFiles/rebuild_cache.dir
+/home/crk/linux/IMX335/camera_RTSP/build/CMakeFiles/edit_cache.dir
+/home/crk/linux/IMX335/camera_RTSP/build/CMakeFiles/Camera_1.dir
